@@ -1,0 +1,16 @@
+.listitem{
+    padding:1vw;
+    font-size:20px;
+    
+}
+.listitem:hover{
+    background-color: blue;
+    padding:2vw;
+    border-radius: 5px;
+}
+
+.listitem:active{
+    background-color: red;
+    padding:2vw;
+    border-radius: 5px;
+}
