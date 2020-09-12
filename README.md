@@ -9,8 +9,7 @@ A web app which helps the user to store the bills so that they can access them w
 - React
 - Axios
 - Redux
-- Django
-- Django Rest Framework (DRF)
+
 
 ## Installation
 
